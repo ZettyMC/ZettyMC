@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="zettymc_512x512.png"
+   inkscape:export-xdpi="1024"
+   inkscape:export-ydpi="1024"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="zetty_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#515151"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="12.145833"
+     inkscape:cx="30.380789"
+     inkscape:cy="23.464837"
+     inkscape:window-width="2560"
+     inkscape:window-height="1370"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#32373e;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#49505a;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="clone_original"
+       css_properties=""
+       attributes="style,clip-path,mask"
+       linkeditem="#text2"
+       is_visible="true"
+       method="d"
+       allow_transforms="true"
+       id="path-effect2"
+       lpeversion="1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="48"
+       y1="0"
+       x2="22"
+       y2="26"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect4"
+       width="48"
+       height="48"
+       x="0"
+       y="0"
+       inkscape:label="Background Shadow" />
+    <rect
+       style="fill:#484f59;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1"
+       width="48"
+       height="48"
+       x="-2"
+       y="2"
+       inkscape:label="Background" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Noto Sans Lao';-inkscape-font-specification:'Noto Sans Lao, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;white-space:pre;fill:#0095c2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="13.818657"
+       y="39.23201"
+       id="text4"
+       inkscape:label="Z Shadow"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="13.818657"
+         y="39.23201"
+         style="display:inline;fill:#0095c2;fill-opacity:1">Z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;font-family:'Noto Sans Lao';-inkscape-font-specification:'Noto Sans Lao, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;white-space:pre;fill:#00bcf4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:markers fill stroke"
+       x="11.818657"
+       y="39.23201"
+       id="text3"
+       inkscape:label="Z"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="11.818657"
+         y="39.23201"
+         style="display:inline">Z</tspan></text>
+  </g>
+</svg>
